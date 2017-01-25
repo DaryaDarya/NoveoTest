@@ -1,0 +1,25 @@
+{
+  "name": "testnoveo",
+  "version": "1.0.0",
+  "description": "shopш�ping cart",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Darya Shemyakina",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "express-session": "^1.15.0",
+    "lodash": "^4.17.4",
+    "mongoose": "^4.7.8",
+    "mongoskin": "^2.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "sinon": "^1.17.7",
+    "supertest": "^2.0.1"
+  }
+}

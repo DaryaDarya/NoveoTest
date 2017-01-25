@@ -1,0 +1,10 @@
+{
+	"server":{
+		"port":8083
+	},
+	"db":{
+		"host":"localhost",
+		"port":27017,
+		"name":"shop"
+	}
+}
